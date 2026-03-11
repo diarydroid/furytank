@@ -1,18 +1,21 @@
 [
   {
     "title": "Tesla Model S Plaid",
+    "description": "The Tesla Model S Plaid is a high-performance luxury electric sedan featuring a 1,020-horsepower tri-motor all-wheel-drive system, delivering 0–60 mph acceleration in 1.99 seconds. It boasts a 200 mph top speed, ~368-mile EPA range, and features a minimalist interior with a yoke steering wheel, 17-inch display, and advanced tech, setting it as a top-tier EV. ",
     "price": "$129,990",
     "category": "Electric",
     "image_url": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=500&q=80"
   },
   {
     "title": "Mercedes AMG GT",
+    "description": "The Tesla Model S Plaid is a high-performance luxury electric sedan featuring a 1,020-horsepower tri-motor all-wheel-drive system, delivering 0–60 mph acceleration in 1.99 seconds. It boasts a 200 mph top speed, ~368-mile EPA range, and features a minimalist interior with a yoke steering wheel, 17-inch display, and advanced tech, setting it as a top-tier EV. ",
     "price": "$118,600",
     "category": "Sport",
     "image_url": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=500&q=80"
   },
   {
     "title": "Range Rover Sport",
+    "description": "The Tesla Model S Plaid is a high-performance luxury electric sedan featuring a 1,020-horsepower tri-motor all-wheel-drive system, delivering 0–60 mph acceleration in 1.99 seconds. It boasts a 200 mph top speed, ~368-mile EPA range, and features a minimalist interior with a yoke steering wheel, 17-inch display, and advanced tech, setting it as a top-tier EV. ",
     "price": "$83,000",
     "category": "SUV",
     "image_url": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=500&q=80"
